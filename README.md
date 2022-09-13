@@ -3,7 +3,8 @@
 - Time: **Monday 8:15 - 9:45**
 - Location: **Southern Building 2.107 (PC 2)**
 - Teacher: **Erik Tűri**
-- Contact: ***turierik@inf.elte.hu***
+- Contact: ***turierik@inf.elte.hu*** (or maybe Teams)
+    - any messages from students via **other platforms** (including but not limited to: Facebook, Messenger, Instagram, TikTok, Twitter, Discord, etc) **WILL BE DELETED WITHOUT READING!**
 
 ## Platforms
 
