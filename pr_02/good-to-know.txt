@@ -1,0 +1,14 @@
+document.querySelector(selector)
+document.querySelectorAll(selector)
+
+__________.innerText
+__________.innerHTML
+
+__________.style.somePropertyFromCSS
+eg: background-color: red; ===>
+    __________.style.backgroundColor = 'red'
+__________.classList.add(classname)
+__________.classList.remove(classname)
+
+let something = document.createElement(tag)
+parent.appendChild(something)
