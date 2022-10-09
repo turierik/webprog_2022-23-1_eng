@@ -1,0 +1,9 @@
+@import url('https://cdn.jsdelivr.net/gh/elte-fi/www-assets@19.10.16/styles/mdss.min.css');
+
+table {
+    border: 1px solid black;
+}
+
+.diagonal {
+    background-color: lightgreen !important;
+}
