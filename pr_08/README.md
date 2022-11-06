@@ -1,0 +1,25 @@
+# How to run PHP
+
+- Option 1 (recommended): run a local development server
+  - installation:
+    -  Windows: [automatic installer (PHP, Composer, Xdebug)](https://github.com/totadavid95/PhpComposerInstaller/releases)
+    -  Linux: [install php-8.1 using your software manager](https://www.digitalocean.com/community/tutorials/how-to-install-php-8-1-and-set-up-a-local-development-environment-on-ubuntu-22-04)
+     -  Mac OS: [install the latest PHP version using Homebrew package manager](https://postsrc.com/posts/how-to-install-php-8-on-macos-big-sur-using-homebrew)
+  - check your installation:
+    - open a terminal and run `php -v`
+    - if the above command runs and the output begins with a version like `PHP 8.x.x`, your installation was completed successfully
+    - *(NOTE: you may need to re-open the terminal or restart the system after installation)*
+  - how to run:
+    - navigate to your project's directory and open a terminal
+    - execute: `php -S localhost:3000`
+    - open [http://localhost:3000](http://localhost:3000) in your browser
+- Option 2 (**NOT** recommended, secondary solution only): use our shared server
+  - This method is **NOT** recommended since the server is not maintained anymore: it runs an outdated version of PHP 7 (some features won't work) and it may break under load (e.g. during exams).
+  - how to connect:
+    - use any SFTP client (e.g. FileZilla, WinSCP) to access the server
+    - hostname: `webprogramozas.inf.elte.hu`
+    - login with your `INF` username and password (which you use to access MS Teams or the computers in the lab)
+  - how to use:
+    - create a folder named `www` in your home directory on the server
+    - anything you upload to this directory can be reached from your browser at [http://webprogramozas.inf.elte.hu/students/XYZ/](http://webprogramozas.inf.elte.hu/students/XYZ/) where `XYZ` is your username
+    - **NEVER** upload sensitive data (e.g. your password) to the server because **EVERYONE** can see your uploads
