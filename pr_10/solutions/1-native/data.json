@@ -1,0 +1,29 @@
+{
+    "150150150": {
+        "fullname": "Gone Away",
+        "taj": "150150150",
+        "email": "imnothere@gmail.com",
+        "age": 21,
+        "gender": "f",
+        "regdate": "2020-09-01",
+        "notes": "Temporary out of town."
+    },
+    "176345555": {
+        "fullname": "Yamada Hanako",
+        "taj": "176345555",
+        "email": "yhko@inf.elte.hu",
+        "age": 27,
+        "gender": "f",
+        "regdate": "2021-04-27",
+        "notes": ""
+    },
+    "010101011": {
+        "fullname": "John Doe",
+        "taj": "010101011",
+        "email": "jdoe@inf.elte.hu",
+        "age": 50,
+        "gender": "m",
+        "regdate": "1999-02-28",
+        "notes": ""
+    }
+}
